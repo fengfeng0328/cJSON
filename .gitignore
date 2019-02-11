@@ -16,3 +16,6 @@ libcjson_utils.so.*
 .vscode
 .idea
 cmake-build-debug
+
+.cproject
+.project
